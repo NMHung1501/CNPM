@@ -1,0 +1,14 @@
+HƯỚNG DẪN NẠP DATA MẪU (SQL Server)
+
+1) (Nếu cần) Import lại schema:
+   - database\schema_mssql.sql
+
+2) Import lại seed modern UI:
+   - database\seed_mssql.sql
+
+3) Mở trình duyệt:
+   - http://localhost:5000/
+   - http://localhost:5000/admin.html
+
+Ghi chú: seed dùng IF NOT EXISTS nên chạy lại nhiều lần vẫn an toàn.
+

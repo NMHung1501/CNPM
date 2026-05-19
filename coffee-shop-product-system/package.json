@@ -1,0 +1,16 @@
+{
+  "name": "coffee-shop-product-system",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "echo \"Add scripts after scaffolding server/client\"",
+    "start": "node server/src/index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "mssql": "^12.5.4"
+  }
+}

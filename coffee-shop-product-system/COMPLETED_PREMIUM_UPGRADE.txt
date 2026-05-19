@@ -1,0 +1,11 @@
+Đã nâng cấp demo chạy OK + seed premium set.
+
+- Server: http://localhost:5000/
+- Admin: http://localhost:5000/admin.html
+
+Các phần premium đã cập nhật:
+- database/seed_mssql.sql: thêm 6 sản phẩm premium names + ảnh Unsplash.
+- client/index.html: có thay đổi palette + typography + font/icon link.
+
+Phần premium admin (sidebar/modal/toast/icon-only) còn cần được thay thế full client/admin.html theo spec.
+

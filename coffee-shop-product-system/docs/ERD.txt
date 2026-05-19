@@ -1,0 +1,19 @@
+ERD (gợi ý):
+
+categories (1) ---- (N) products
+
+categories:
+- id (PK)
+- name
+- created_at
+
+products:
+- id (PK)
+- name
+- price
+- description
+- image_url
+- category_id (FK -> categories.id)
+- status (boolean)
+- created_at
+
