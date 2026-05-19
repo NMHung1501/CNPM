@@ -7,5 +7,5 @@
  Seed dữ liệu mẫu + script tạo DB
  Chạy thử: migrate/create schema.sql + test API + chạy frontend
  ![Mô tả ảnh](image/Screenshot2026-05-19164701.png)
- ![Mô tả ảnh]()
+ ![Mô tả ảnh](image/Screenshot2026-05-19164727.png)
 
